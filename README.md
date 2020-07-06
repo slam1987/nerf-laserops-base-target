@@ -8,6 +8,8 @@ Since there is nothing on the market for this, I have decided to create a protot
 
 The code uses libraries from https://github.com/cyborg5/IRLib2 for decoding raw infrared signals.
 
-Usage:
-
-The device will have preset "hit points" to determine how many shots it can take before being "destroyed".
+Features:
+- Support for both the ALPHAPOINT and DELTABURST systems.
+- Preset "hit points" to determine how many shots the device can take before being "destroyed".
+- Reset button can be used to reset hit points once the device is in the "destroyed" state.
+- Supports multiple teams using the "Team Switch" button.
