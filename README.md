@@ -13,3 +13,7 @@ Features:
 - Preset "hit points" to determine how many shots the device can take before being "destroyed".
 - Reset button can be used to reset hit points once the device is in the "destroyed" state.
 - Supports multiple teams using the "Team Switch" button.
+
+Why is this necessary?
+
+Mainly because there is no incentive to leave cover and fire at an opponent who is also behind cover. Having a "vulnerable" target promotes more fast-paced games.
